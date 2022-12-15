@@ -1,0 +1,65 @@
+header {
+    Font-family: 'Courgette';
+    Font-size: 5em;
+    Color: rgb(179, 72, 72);
+    align: center;
+    margin:auto;
+}
+
+header img{
+    height: 150px;
+    width: 120px;
+}
+
+body {
+    background-color:  rgb(144, 216, 138);
+    margin: 0;
+    color: rgb(14, 0, 0);
+    horizontal-align: middle;
+}
+
+.Activities{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(179, 72, 72);
+    font-size:2em;
+    vertical-align: middle;
+    border: 5px outset rgb(179, 72, 72);
+    background-color: white; 
+    text-align: center;
+}
+
+.Movies {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(179, 72, 72);
+    font-size:2em;
+    vertical-align: middle;
+    border: 5px outset rgb(179, 72, 72);
+    background-color: white;
+    text-align: center;
+}
+
+.Calender {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(179, 72, 72);
+    font-size: 3em;
+    vertical-align: middle;
+    border: 5px outset rgb(179, 72, 72);
+    background-color: white;
+    text-align: center;
+}
+
+.tableauPlaceholder {
+    margin:auto;
+}
+
+.Map {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(179, 72, 72);
+    font-size: 3em;
+    vertical-align: middle;
+    border: 5px outset rgb(179, 72, 72);
+    background-color: white;
+    text-align: center;
+}
+
+
